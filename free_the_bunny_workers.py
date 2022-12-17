@@ -1,5 +1,7 @@
-### level 4 - 1/2 ###
+
 """
+About Polya's enumeration theorem.
+
 Free the Bunny Workers
 ======================
 You need to free the bunny workers before Commander Lambda's space station explodes! Unfortunately, the Commander was very careful with the highest-value workers -- they all work in separate, maximum-security work rooms. The rooms are opened by putting keys into each console, then pressing the open button on each console simultaneously. When the open button is pressed, each key opens its corresponding lock on the work room. So, the union of the keys in all of the consoles must be all of the keys. The scheme may require multiple copies of one key given to different minions.
